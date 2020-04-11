@@ -7,4 +7,6 @@
 
 4.本音源制作归单推manKen所有。
 
+5.此音源仅用于UTAU
 
+[点击我下载音源](https://github.com/Ken-Kano/kano.github.io/archive/master.zip).
